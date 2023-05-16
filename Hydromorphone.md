@@ -8,22 +8,6 @@ tags: Drug
 
 ## Mechanism of Action
 
-## Indications
-
-## Dosage
-
-## Complications
-
-
-## References
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-## Mechanism of Action
-
-## Indications
-
 ## Dosage
 
 ### Epidural Dosing
