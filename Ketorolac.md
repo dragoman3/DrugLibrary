@@ -1,7 +1,7 @@
 ---
 title: Ketorolac
 category: drug
-feed: show
+feed: hide
 date:   15-05-2023
 tags: Drug 
 ---

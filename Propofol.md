@@ -1,6 +1,10 @@
-# Propofol
-Created on  2021-11-03
-#Drug 
+---
+title: Propofol
+category: drug
+feed: show
+date:   03-11-2021
+tags: Drug 
+---
 See also [[Intravenous Anesthetics]]
 ## Pharmacokinetics of Propofol
 
