@@ -6,19 +6,23 @@ date:   12-05-2023
 tags: Drug, clerkship 
 ---
 
+## Mechanism of Action [^1]
+- Central analgesic effect descending serotonergic pathways.
+- Likely component of COX inhibition (similar to NSAIDs)
 
-## Mechanism of Action 
-Possibly involves direct and indirect inhibition of central cyclooxygenases + activation of the endocannabinoid system + spinal serotonergic pathways
 ## Indications
-[[Pain Management#Step 1 - Non-opioids +/- Adjuvants]]
-## Dosage
-### Healthy Patient
-625 - 1000 mg PO Q4hrs to a daily max dose of 4000 mg
+- Analgesia (see [[../Clerkship/Pain Management|Pain Management]])
+
+## Dosage [^2]
+- **Oral:** 650 - 1000 mg PO every 4 to 6 hours. maximum daily dose should not exceed 4,000 mg (2,000 mg/day for chronic alcoholics). Pediatric dosing 10-15 mg/kg PO every 4 to 6 hours. [^3]
+- **IV:** Available in some provinces in Canada. Provides 4 hours of analgesia
+
 ## Complications
-Liver toxicity can occur in overdose or in patients with impaired hepatic function
+- Acute overdose can cause severe hepatic damage due to accumulation of N-acetyl-p-benzoquinoneimine (NAPQI), leading to liver failure.
+- Overdose management includes activated charcoal and administration of acetylcysteine as an antidote.
 
 ## References
-[^1]:
-[^2]:
-[^3]:
-[^4]:
+[^1]: Shafer SL, Rathmell JP, Flood P. Stoelting’s pharmacology and physiology in anesthetic practice. Fifth edition. Philadelphia: Wolters Kluwer Health; 2015. 900 p.
+[^2]: Birdi T, Sullivan P. Ottawa anesthesia primer. Toronto, Ontario: Echo Book Publishing; 2012.
+[^3]: Coté CJ, Lerman J, Anderson BJ. A practice of anesthesia for infants and children. Seventh edition. Philadelphia, PA: Elsevier; 2024. (Coté, Lerman and Anderson’s a practice of anesthesia in infants and children).
+

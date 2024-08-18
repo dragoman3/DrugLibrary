@@ -7,9 +7,8 @@ tags: Drug, clerkship, pocket card
 ---
 
 ## What is Propofol?
-- Alkylphenol derivative that provides sedative effects 
-![alkylpenol | 300](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Propofol.svg/1200px-Propofol.svg.png)
-
+- Alkylphenol derivative that provides sedative effects that can be used to induce and maintain anesthesia
+- Rapid redistribution allows brief, deep sedation (joint reductions, cardioversions, ECT) 
 ## Mechanism of Action & Pharmacokinetics [^1][^2]
 - Entirety of the mechanism is poorly understood, however it has an agonistic effect on the GABA receptors of the central nervous system 
 - With agonistic effects on GABA, it will potentiate the inhibitory effect, increasing chloride conductance across the neuron making it harder for an action potential to fire 
