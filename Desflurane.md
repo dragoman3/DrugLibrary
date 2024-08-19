@@ -3,6 +3,7 @@ title: Desflurane
 notetype: feed
 feed: show
 date: 21-01-2024
+author: Simran, Dragoman
 tags:
   - pocketcard
   - Drug

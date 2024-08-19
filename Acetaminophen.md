@@ -11,7 +11,7 @@ tags: Drug, clerkship
 - Likely component of COX inhibition (similar to NSAIDs)
 
 ## Indications
-- Analgesia (see [[../Clerkship/Pain Management|Pain Management]])
+- Analgesia (see [../Clerkship/Pain Management|Pain Management](../Clerkship/Pain%20Management%7CPain%20Management.md))
 
 ## Dosage [^2]
 - **Oral:** 650 - 1000 mg PO every 4 to 6 hours. maximum daily dose should not exceed 4,000 mg (2,000 mg/day for chronic alcoholics). Pediatric dosing 10-15 mg/kg PO every 4 to 6 hours. [^3]
