@@ -32,6 +32,8 @@ tags:
 
 ### Respiratory [^1][^3]
 - With increasing doses, fentanyl can cause respiratory depression, hypoxia, apnea, loss of consciousness, and respiratory arrest without adequate ventilation support. 
+- Depresses respiratory centers in the brainstem, leading to decreased respiratory rate and minute ventilation. Often compensatory increased tidal volume occurs [^3]
+- Risk of respiratory depression increases with dose and concomitant use of other CNS depressants.
 - Occasional chest wall rigidity or laryngeal rigidity
 
 ### Central Nervous System [^1][^2] 
