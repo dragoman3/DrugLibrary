@@ -1,66 +1,60 @@
 ---
 title: Propofol
-category: drug
+notetype: feed
 feed: show
-date:   03-11-2021
-tags: Drug 
+date: 18-05-2023
+tags: Drug, clerkship, pocket card 
+author: Simran
 ---
-See also [[Intravenous Anesthetics]]
-## Pharmacokinetics of Propofol
 
-2,6-diisopropylphenol
+## What is Propofol? [^1][^2]
+- Alkylphenol derivative providing sedative effects for induction and maintenance of anesthesia.
+- Rapid redistribution allows brief, deep sedation (e.g., joint reductions, cardioversions, ECT).
 
-- formulation
-    - 1% aqueous solution
-    - oil water emulsion containing
-        - soya bean oil, glycerol, egg licthin
-- Action
-    - Short initial distribution half life (2-8 min)
-    - Elimination half life 4-7 hours due to
-        - distribution to fatty tissue
-- Metabolism
-    - Liver via conjugation to:
-        - glucuronide and sulphate which are excreted by
-            - kidneys
-    - Extrahepatic metabolism
-- Context sensitive half life (infusion up to 8 hrs)
-    - 40 min
+## Mechanism of Action & Pharmacokinetics [^1][^2]
+- Exact mechanism is not fully understood, but it primarily exerts effects via agonism of the GABA receptors in the CNS.
+- Potentiates the inhibitory effect of GABA, increasing chloride conductance across neurons, making it harder for an action potential to fire.
+- Highly protein-bound and lipophilic, metabolized in the liver via conjugation, and excreted through the renal system.
 
-## Pharmacodynamics
+## Pharmacodynamics [^1][^2]
+### Cardiovascular
+- Decreases arterial blood pressure by reducing systemic vascular resistance through arterial and venous vasodilation.
+- Reduces preload, afterload, and cardiac output.
+- Inhibits the baroreceptor response, preventing the compensatory increase in heart rate typically seen with hypotension.
 
-- Cardiovascular
-    - SVR
-        - Reduces
-    - Contractility
-        - reduces
-    - Preload
-        - reduces
-    - Heart Rate
-        - increases (baroreceptor mediated)
-- Respiratory
-    - profound respiratory depression
-    - upper airway reflexes reduced
-- Cerebral
-    - CMR
-        - reduces
-    - CBF
-        - reduces
-    - Intracranial pressure
-        - down
-    - Anticonvulsant properties
-        - at infusions
-        - excititory in bolus
-        - ~
-- Hepatic
-	- Does not decrease hepatic blood flow (may increase)
+### Respiratory
+- Depresses respiratory drive, leading to apnea in approximately 1 in 4 patients.
+- Inhibits hypoxia-mediated drive to breathe and reduces the ventilatory response to elevated CO2.
+- Suppresses upper airway reflexes, facilitating tracheal intubation and LMA placement.
+- Decreases tidal volume while increasing respiratory rate, with minimal impact on minute ventilation.
 
-## 
+### Central Nervous System
+- Decreases cerebral metabolic rate (CMR), cerebral blood flow (CBF), intracranial pressure (ICP), and intraocular pressure (IOP).
+- Exhibits anticonvulsant properties and can be used in the treatment of refractory seizures.
 
-## Propofol Infusion Syndrome
+## Indications [^1][^2]
+### Anesthetic Indications
+- Induction and maintenance of general anesthesia (TIVA technique).
+- Sedation during procedures (e.g., mechanical ventilation, intubation).
 
+### Other Indications
+- Treatment of refractory seizures.
+- Treatment of refractory postoperative nausea and vomiting.
+
+## Dosage [^2]
+- **Induction Dose:** 1.5 - 2.5 mg/kg IV; reduced to 1 - 2 mg/kg in patients premedicated with opioids or benzodiazepines.
+- **Maintenance Dose:** 20 - 200 µg/kg/min IV infusion. See TIVA.
+- **Half-life:** Redistribution: 2 - 8 minutes; Elimination: 4 - 7 hours.
+
+## Complications [^1][^2]
+- Pain on injection, often mitigated by co-administration of lidocaine.
+- Hypotension, particularly in patients with reduced cardiovascular reserve or fixed cardiac output.
+- Propofol infusion syndrome (rare but fatal): characterized by refractory bradycardia, metabolic acidosis, rhabdomyolysis, hyperkalemia, hyperlipidemia, renal and cardiac failure.
+- Risk of infection from contaminated lipid emulsions.
+- QT prolongation (rare).
+- Crosses the placenta, potentially causing neonatal CNS and respiratory depression, but considered relatively safe for obstetrical use.
+- Should be used with caution in patients with compromised cardiovascular function.
 
 ## References
-[^1]:
-[^2]:
-[^3]:
-[^4]:
+[^1]: Folino, T.B, Muco, E., Safadi, A.O., Parks, L.J. (2022). Propofol. *StatPearls*. https://www.ncbi.nlm.nih.gov/books/NBK430884
+[^2]: Sullivan, P. (2012). *Ottawa Anesthesia Primer.* Echo Book Publishing.
