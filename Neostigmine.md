@@ -8,7 +8,7 @@ authors: Justin
 ---
 
 ## What is Neostigmine?
-- Neostigmine is a cholinesterase inhibitor generally used to reverse non-depolarizing muscle relaxants like [Rocuronium](Rocuronium.md). 
+- Neostigmine is a cholinesterase inhibitor generally used to reverse non-depolarizing muscle relaxants like [Rocuronium](Rocuronium). 
 
 ## Mechanism of Action & Pharmacokinetics [^1][^2]
 - **Mechanism of Action:** Neostigmine inhibits acetylcholinesterase, preventing the breakdown of acetylcholine => Leads to enhanced stimulation of nicotinic and muscarinic receptors.
