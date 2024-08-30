@@ -12,7 +12,7 @@ authors: Justin
 
 ## Mechanism of Action & Pharmacokinetics [^1][^2]
 - **Mechanism of Action:** Neostigmine inhibits acetylcholinesterase, preventing the breakdown of acetylcholine => Leads to enhanced stimulation of nicotinic and muscarinic receptors.
-- **Secondary Effects:** Leads to muscarinic receptor stimulation, which can lead to bradycardia, increased secretions, and bronchospasm. [Glycopyrrolate](Glycopyrrolate.md) can reduce these effects
+- **Secondary Effects:** Leads to muscarinic receptor stimulation, which can lead to bradycardia, increased secretions, and bronchospasm. [Glycopyrrolate](Glycopyrrolate) can reduce these effects
 
 ## Pharmacodynamics [^1][^2]
 ### Cardiovascular
@@ -23,11 +23,13 @@ authors: Justin
 
 ## Indications [^1][^2]
 ### Reversal of Neuromuscular Blockade
-- Used to reverse the effects of non-depolarizing neuromuscular blocking agents (NDMRs) like [Rocuronium](Rocuronium.md) and vecuronium.
+- Used to reverse the effects of non-depolarizing neuromuscular blocking agents (NDMRs) like [Rocuronium](Rocuronium) and vecuronium.
 - Works by increasing the concentration of acetylcholine at the neuromuscular junction, outcompeting the NDMRs
 
 ## Dosing [^1][^2]
 - **Reversal of NDMR:** 0.03 - 0.07 mg/kg IV, usually administered with glycopyrrolate to mitigate muscarinic side effects.
+- Due to the side effects of neostigmine, often the dose does not exceed 3mg.
+- The ratio of neostigmine to [[../Anesthesia/Body Weight Dosing/Glycopyrrolate|Glycopyrrolate]] is 5:1. 
 
 ## Complications  [^1][^2]
 - **Bradycardia:** Often requires co-administration of an anticholinergic agent like glycopyrrolate.

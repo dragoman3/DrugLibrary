@@ -2,27 +2,32 @@
 title: Ondansetron
 category: drug
 feed: show
-date:   15-05-2023
+date: 15-05-2023
 tags: Drug 
+author: Dragoman
 ---
 
+## Mechanism of Action [^1][^2]
+- Ondansetron is a selective 5-HT₃ receptor antagonist which affects the chemoreceptor trigger zone
 
-## Mechanism of Action
-5-HT3 antagonist
-## Indications
-[[Post-operative Nausea and Vomiting]]
-NNT 6 for postoperative nausea and 7 for postoperative vomiting
-## Dosage
-4 mg IV or 8mg PO disolving (50% bioavailable) [^1]
-## Complications
-NNH 36 for headache
-NNH 31 for elevated LFTs
-NNH 23 for constipation
+## Indications [^1][^2]
+- Prophylaxis *and* treatment of post-operative nausea and vomiting (PONV).
 
+## Dosage [^1][^3]
+- 0.1 
 
+## Complications [^1][^2]
+- **Headache:** Number needed to harm (NNH) is 36.
+- **QTc Prolongation:** Generally well tolerated. 
+
+## Pharmacokinetics [^2]
+- **Onset of Action:** 30 to 60 minutes after oral or IV administration.
+- **Metabolism:** Hepatic
+- **Elimination Half-life:** 3 to 4 hours.
+- **Excretion:** Metabolites are excreted in the urine.
 
 ## References
-[^1]:[[@ganFourthConsensusGuidelines2020 | Tong J. Gan, Kumar G. Belani, Sergio Bergese, Frances Chung, Pierre Diemunsch, Ashraf S. Habib, Zhaosheng Jin, Anthony L. Kovac, Tricia A. Meyer, Richard D. Urman, Christian C. Apfel, Sabry Ayad, Linda Beagley, Keith Candiotti, Marina Englesakis, Traci L. Hedrick, Peter Kranke, Samuel Lee, Daniel Lipman, Harold S. Minkowitz, John Morton, Beverly K. Philip, Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting, 2020]]
-[^2]:
-[^3]:
-[^4]:
+[^1]: Gan, T.J., Belani, K.G., Bergese, S., Chung, F., Diemunsch, P., Habib, A.S., Jin, Z., Kovac, A.L., Meyer, T.A., Urman, R.D., Apfel, C.C., Ayad, S., Beagley, L., Candiotti, K., Englesakis, M., Hedrick, T.L., Kranke, P., Lee, S., Lipman, D., Minkowitz, H.S., Morton, J., Philip, B.K. (2020). Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting.
+[^2]: Shafer SL, Rathmell JP, Flood P. (2015). *Stoelting’s Pharmacology and Physiology in Anesthetic Practice.* Fifth edition. Philadelphia: Wolters Kluwer Health.
+[^3]: [^1]: Coté CJ, Lerman J, Anderson BJ. *A Practice of Anesthesia for Infants and Children.* Seventh edition. Philadelphia, PA: Elsevier; 2024.
+

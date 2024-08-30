@@ -57,5 +57,5 @@ tags:
 ## References
 [^1]: Ramos-Matos, C.F., Bistas, K.G., Lopez-Ojeda, W. (2024). Fentanyl. *StatPearls.* https://www.ncbi.nlm.nih.gov/books/NBK459275/
 [^2]: UpToDate. (2024). *Fentanyl*. https://www.uptodate.com/contents/fentanyl-drug-information?search=fentanyl&source=auto_suggest&selectedTitle=1%7E2---1%7E2---fent
-[^3]: Birdi T, Sullivan P. Ottawa anesthesia primer. Toronto, Ontario: Echo Book Publishing; 2012.
+[^3]: Birdi T, Sullivan P. *Ottawa anesthesia primer*. Toronto, Ontario: Echo Book Publishing; 2012.
 
