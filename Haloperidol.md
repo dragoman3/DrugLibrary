@@ -2,7 +2,7 @@
 title: Haloperidol
 category: drug
 feed: show
-date:   16-05-2023
+date: 16-05-2023
 tags: Drug 
 ---
 

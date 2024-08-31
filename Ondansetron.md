@@ -29,5 +29,5 @@ author: Dragoman
 ## References
 [^1]: Gan, T.J., Belani, K.G., Bergese, S., Chung, F., Diemunsch, P., Habib, A.S., Jin, Z., Kovac, A.L., Meyer, T.A., Urman, R.D., Apfel, C.C., Ayad, S., Beagley, L., Candiotti, K., Englesakis, M., Hedrick, T.L., Kranke, P., Lee, S., Lipman, D., Minkowitz, H.S., Morton, J., Philip, B.K. (2020). Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting.
 [^2]: Shafer SL, Rathmell JP, Flood P. (2015). *Stoelting’s Pharmacology and Physiology in Anesthetic Practice.* Fifth edition. Philadelphia: Wolters Kluwer Health.
-[^3]: [^1]: Coté CJ, Lerman J, Anderson BJ. *A Practice of Anesthesia for Infants and Children.* Seventh edition. Philadelphia, PA: Elsevier; 2024.
+[^3]: Coté CJ, Lerman J, Anderson BJ. *A Practice of Anesthesia for Infants and Children.* Seventh edition. Philadelphia, PA: Elsevier; 2024.
 
