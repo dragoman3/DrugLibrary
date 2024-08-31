@@ -7,7 +7,7 @@ tags: Drug
 ---
 
 ## What is Dexamethasone?
-- Dexamethasone is a glucocorticoid used in the perioperative period for [[../Clerkship/Post-operative Nausea and Vomiting|Post-operative Nausea and Vomiting]] and swelling
+- Dexamethasone is a glucocorticoid used in the perioperative period for [[Post-operative Nausea and Vomiting]] and swelling
 
 ## Mechanism of Action [^1][^2]
 - Dexamethasone binds to intracellular glucocorticoid receptors inhibiting inflammatory mediators.
