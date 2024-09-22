@@ -14,7 +14,7 @@ author: Dragoman
 - **Half-life:** Approximately 40 hours
 ## Indications [^1]
 - **Postoperative Nausea and Vomiting (PONV):**
-  - Very effective in reducing the incidence of [[../Clerkship/Post-operative Nausea and Vomiting|Post-operative Nausea and Vomiting]]
+  - Very effective in reducing the incidence of [[Post-operative Nausea and Vomiting|Post-operative Nausea and Vomiting]]
 ## Dosage [^1]
 - 40 mg or 80 mg, or 125 mg PO
 

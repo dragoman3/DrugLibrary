@@ -21,7 +21,7 @@ author: Jasleen, Dragoman
 - Pediatrics 0.5 mg/kg PO/IV every 6 hours
 
 ## Indications 
-- Analgesia (see [[../Clerkship/Pain Management|Pain Management]])
+- Analgesia (see [[Pain Management|Pain Management]])
 
 ## Contraindications [^3]
 - Renal insufficiency

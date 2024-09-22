@@ -46,7 +46,7 @@ author: Simran
 
 ## Dosage [^2]
 - **Induction Dose:** 1.5 - 2.5 mg/kg IV; reduced to 1 - 2 mg/kg in patients premedicated with opioids or benzodiazepines. Children may require higher induction doses (up to ~4 mg/kg).
-- **Maintenance Dose:** 20 - 200 µg/kg/min IV infusion. See [../Clerkship/TIVA](../Clerkship/TIVA.md).
+- **Maintenance Dose:** 20 - 200 µg/kg/min IV infusion. See [TIVA](TIVA.md).
 - **Half-life:** Redistribution: 2 - 8 minutes; Elimination: 4 - 7 hours.
 
 ## Complications [^1][^2]
