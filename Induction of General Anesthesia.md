@@ -31,7 +31,7 @@ After a surgical time-out, the tools required for a safe induction can be rememb
 Tests of loss of consciousness:
 - loss of verbal or pain response
 - loss of eyelash reflex
-- apnea (often used when using [[../DrugLibrary/Propofol]] or other apnea-inducing agents)
+- apnea (often used when using [[Propofol]] or other apnea-inducing agents)
 
 ## Hemodynamic Stability
 *There are many factors that cause to hemodynamic depression and elevation. Hypotension is a common side effect of anesthetic agents and should be expected and counteracted. Similarly, laryngoscopy can be quite stimulating and achieving sympathetic blockade with narcotics or other medications is standard.*
@@ -50,8 +50,8 @@ Factors causing hypertension
 *Depending on the desired airway, there are a variety of medications that can assist in placement of an airway device.*
 
 ### Endotracheal Tube
-- Paralysis with [[../DrugLibrary/Succinylcholine]] or [[../DrugLibrary/Rocuronium]] is common
-- Narcotics like [[../DrugLibrary/Remifentanil|Remifentanil]] or [[../DrugLibrary/Fentanyl|Fentanyl]] can improve the grade of the view during laryngoscopy and prevent the hemodynamic impact of laryngoscopy
+- Paralysis with [[Succinylcholine]] or [[Rocuronium]] is common
+- Narcotics like [[Remifentanil]] or [[Fentanyl]] can improve the grade of the view during laryngoscopy and prevent the hemodynamic impact of laryngoscopy
 - Adequate depth of anesthetic can facilitate intubation
 
 ### Supraglottic Airway
