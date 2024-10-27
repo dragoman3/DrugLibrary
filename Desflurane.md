@@ -23,7 +23,7 @@ tags:
 ### Cardiovascular
 - Peripheral vasodilatory effects leading to a decrease in blood pressure, occasionally there is also an increase in heart rate. 
 ### Respiratory
-- More likely to elicit airway irritation symptoms such as coughing and laryngospasm compared to [[DrugLibrary/Sevoflurane|Sevoflurane]] due to high pungency, therefore is not often used for induction of anesthesia.
+- More likely to elicit airway irritation symptoms such as coughing and laryngospasm compared to [[Sevoflurane]] due to high pungency, therefore is not often used for induction of anesthesia.
 ### Other
 -  Known to produce uterine relaxation which can be used in specific cases such as retained placenta but can be detrimental during other procedures such as a D&C. 
 

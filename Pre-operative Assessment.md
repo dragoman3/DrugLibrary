@@ -17,7 +17,7 @@ mermaid: true
 - Identify the key points of their presentation
 - What treatments have been initiated and what has been the response
 - Address the urgency of the case (elective, urgency, emergency)
-- Is the patient NPO ([[Fasting Requirements]])
+- Is the patient NPO ([Fasting Requirements](Fasting%20Requirements.md))
 
 # Past Medical History & Review of Systems
 *Determine the etiology, severity, treatments, and complications of any medical history*

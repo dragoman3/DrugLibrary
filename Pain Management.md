@@ -6,6 +6,7 @@ category: clerk
 date:  12-05-2023
 tags: clerkship 
 version: 1
+mermaid: true
 ---
 # Introduction
 Pain management can be a complex topic in anesthesia. Patient factors, like age, comorbidities, and pre-existing chronic pain can help guide analgesia during the operative period. Surgical factors, like the expected intra-operative and post-operative pain can also help determine which agents to use and in what dosage.
@@ -28,14 +29,14 @@ C-->D
 ## Maximize Non-opioid Analgesia
 Consider pre-operative [[Acetaminophen]]
 Consider the use of [[NSAID]]s, but this will depend on the type of surgery. Generally, NSAIDs are given at the end of an operation if hemostasis is adequate and concerns of bleeding are low.
- - [[Ibuprofen]]
+ - Ibuprofen
  -  [[Ketorolac]]
 ## Opioids
 Opioids are the workhorse of analgesia in the perioperative period. Each of the opioids has a different onset of action and duration of action. The degree of analgesia (determined by the choice and dose of opioid) should be matched to the expected stimulus of the operations.
 
-For instance, [[DrugLibrary/Remifentanil|Remifentanil]] is a good choice in operations that have brief, potent stimulation but minimal post-operative pain. 
+For instance, [[Remifentanil]] is a good choice in operations that have brief, potent stimulation but minimal post-operative pain. 
 
-[[Hydromorphone]] and [[DrugLibrary/Morphine|Morphine]] are good choices when there is intra-operative and post-operative pain.
+[[Hydromorphone]] and [[Morphine]] are good choices when there is intra-operative and post-operative pain.
 
 [[Tramadol]] can be used after surgery and is commonly prescribed because it does not require a triplicate.
 
