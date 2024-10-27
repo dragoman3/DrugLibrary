@@ -7,18 +7,20 @@ tags: Drug
 ---
 
 
-## Mechanism of Action
+## Mechanism of Action [^1][^2]
+- Haloperidol is an antipsychotic that acts primarily as a **dopamine D2 receptor antagonist**. 
+- By blocking dopamine receptors, it inhibits the vomiting reflex, making it effective as an antiemetic.
 
-## Indications
-[[Post-operative Nausea and Vomiting]]
-## Dosage
-[[Post-operative Nausea and Vomiting]]
-- 0.5 - 1 mg IV at the beginning or end of surgery
-## Complications
-- QTC prolongation
+## Indications [^1][^2]
+- [[Post-operative Nausea and Vomiting]]
+
+## Dosage [^1][^2]
+- **PONV:** 0.5 - 1 mg IV administered, generally at the beginning of surgery.
+
+## Complications [^1][^2]
+- **QTc Prolongation:** generally well tolerated at the above dosing. 
+- Extrapyramidal symptoms can occur
 
 ## References
-[^1]: [[@ganFourthConsensusGuidelines2020 | Tong J. Gan, Kumar G. Belani, Sergio Bergese, Frances Chung, Pierre Diemunsch, Ashraf S. Habib, Zhaosheng Jin, Anthony L. Kovac, Tricia A. Meyer, Richard D. Urman, Christian C. Apfel, Sabry Ayad, Linda Beagley, Keith Candiotti, Marina Englesakis, Traci L. Hedrick, Peter Kranke, Samuel Lee, Daniel Lipman, Harold S. Minkowitz, John Morton, Beverly K. Philip, Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting, 2020]]
-[^2]:
-[^3]:
-[^4]:
+[^1]: Gan, T.J., Belani, K.G., Bergese, S., et al. (2020). Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting. Anesth Analg.
+[^2]: Birdi T, Sullivan P. Ottawa anesthesia primer. Toronto, Ontario: Echo Book Publishing; 2012.

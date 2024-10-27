@@ -15,10 +15,10 @@ tags:
 - Popular for short and intermediate procedures due to its rapid onset and ability to induce neuromuscular block quickly.
 
 ## Mechanism of Action & Pharmacokinetics [^1][^2]
-- Rocuronium competitively binds to nicotinic acetylcholine receptors at the neuromuscular junction, preventing acetylcholine from binding and thereby inhibiting muscle contraction.
+- Rocuronium competitively binds to nicotinic acetylcholine receptors at the neuromuscular junction. This prevents ACh from causing muscle contraction
 - Onset time is 60-80 seconds for an intubating dose (approximately 0.6 mg/kg).
 - Duration of action: 35-45 minutes.
-- Dosage is typically based on **ideal body weight (IBW)** for intubation and **lean body weight (LBW)** for maintenance infusions, as rocuronium distributes primarily in lean tissue. This approach helps to avoid overdosing in obese patients, which could prolong the duration of action. [^2]
+- Dosage is typically based on **ideal body weight (IBW)** for intubation. [^2]
 
 ## Pharmacodynamics [^1]
 ### Cardiovascular
@@ -29,7 +29,7 @@ tags:
 - Adequate depth of anesthesia must be maintained to minimize the risk of awareness during paralysis.
 
 ## Indications [^1]
-- Rapid sequence induction and intubation (opens vocal cords, improves laryngoscopy view).
+- [[DrugLibrary/Rapid Sequence Induction|Rapid Sequence Induction]] and intubation (opens vocal cords, improves laryngoscopy view).
 - Maintenance of neuromuscular block during surgery.
 - Alternative to succinylcholine in situations where a rapid onset is required without the associated side effects of depolarizing agents.
 

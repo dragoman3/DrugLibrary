@@ -12,13 +12,11 @@ tags:
 
 ## What is Nitrous Oxide?
 - Inhalational agent used for general anesthetic induction. Combined with other drugs to augment an anesthetic and analgesic effect. 
-![nitrous oxide structure | 300](https://encyclopedia.airliquide.com/sites/gas_encyclopedia/files/036-nitrous_oxide_formula.png)
+
 ## Mechanism of Action & Pharmacokinetics [^1][^2]
 - Nitrous oxide exhibits non-competitive inhibitive effects on the NMDA receptors in the CNS for an anesthetic effect.
 - Analgesic effects are through a release of endogenous opioids acting on opioid receptors.
 - By acting on GABA-A receptors, nitrous oxide also exhibits anxiolytic properties. 
-
-![nitrousoxide](https://pub.mdpi-res.com/ijms/ijms-23-14747/article_deploy/html/images/ijms-23-14747-g002.png?1669375807)
 
 ## Pharmacodynamics [^1] [^2] [^3][^4]
 #### Cardiovascular
@@ -32,13 +30,14 @@ tags:
 
 ## Indications  [^1] [^3]
 #### Anesthetic Indications
-- Induction of general anesthesia - most often in pediatrics. 
+- Can be mixed in with volatile agents like [[DrugLibrary/Sevoflurane|Sevoflurane]] for [[Induction of General Anesthesia]] and will speed the onset of anesthesia 
 
 #### Other Indications
 - Anxiolytic agent for procedures, i.e. dental procedures, labour. Delivered via nasal mask along with oxygen. 
 
 ## Complications [^1] [^3] [^4]
 - Can lead to cardiovascular depression in patients with prior myocardial dysfunction or patients in shock. 
+- FiO2 of delivered gas must be reduced to administer nitrous oxide, which will lead to less pre-oxygenation
 - Diffusion hypoxia can occur once nitrous oxide delivery is stopped as it can dilute the oxygen held in the alveoli by releasing nitrous oxide stores in the body. 
 - There is an increased risk of postoperative nausea and vomiting associated with use of nitrous oxide.
 

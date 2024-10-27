@@ -11,8 +11,9 @@ tags:
   - pocket
 ---
 ## What is Succinylcholine? [^1]
-- A depolarizing neuromuscular blocking drug
+- A *depolarizing* neuromuscular blocking drug
 - Commonly used for rapid sequence induction and intubation due to its rapid onset and ultra-short duration of action.
+- Succinylcholine has **very** important contraindications
 
 ## Mechanism of Action & Pharmacokinetics [^1]
 - Mimics acetylcholine by binding to nicotinic receptors at the neuromuscular junction, causing an initial depolarization (muscle fasciculations) followed by sustained depolarization, leading to paralysis.
@@ -28,7 +29,7 @@ tags:
 - Can cause increased intracranial pressure (ICP) transiently.
 
 ## Indications [^1]
-- Rapid sequence induction and intubation.
+- [[DrugLibrary/Rapid Sequence Induction|Rapid Sequence Induction]] and intubation.
 - Situations requiring quick onset of muscle paralysis.
 
 ## Dosage [^2]

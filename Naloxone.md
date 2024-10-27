@@ -12,7 +12,6 @@ tags:
 ---
 ## What is Naloxone? [^1]
 - A pure opioid antagonist used to reverse the effects of opioid overdose, including respiratory depression, sedation, and hypotension.
--
 
 ## Mechanism of Action & Pharmacokinetics [^1]
 - *Competitively* binds to mu, delta, kappa, and sigma opioid receptors in the CNS, reversing or preventing opioid effects.

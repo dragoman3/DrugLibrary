@@ -58,4 +58,4 @@ author: Simran
 
 ## References
 [^1]: Folino, T.B, Muco, E., Safadi, A.O., Parks, L.J. (2022). Propofol. *StatPearls*. https://www.ncbi.nlm.nih.gov/books/NBK430884
-[^2]: Sullivan, P. (2012). *Ottawa Anesthesia Primer.* Echo Book Publishing.
+[^2]: Birdi T, Sullivan P. Ottawa Anesthesia Primer. Toronto, Ontario: Echo Book Publishing; 2012.

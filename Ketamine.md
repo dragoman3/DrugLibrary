@@ -8,48 +8,45 @@ authors: Simran, Justin
 ---
 
 # What is Ketamine?
-- Rapidly acting nonbarbiturate drug used for general anesthetic providing a dissociative effect and sedation. It can also lead to hallucinations. 
+- Rapidly acting NMDA receptor antagonist that can be used for [[Induction of General Anesthesia]], sedation, and [[Pain Management]]
 
 # Mechanism of Action & Pharmacokinetics [^1][^2]
-- Ketamine acts in a *noncompetitive* antagonistic mechanism of the NMDA receptor,
-	- inhibits excitation of nerves
+- Ketamine acts in a *noncompetitive* antagonistic mechanism of the NMDA receptor
 - Secondary effects at the opiate, muscarinic, cholinergic and serotonergic receptors 
-- Ketamine is a highly lipid soluble drug and is metabolized in the liver via demethylation and hydroxylation pathways. It is eliminated via the gastrointestinal tract and renal system in its metabolite forms. 
-
 
 # Pharmacodynamics [^1] [^2] [^3]
 ## Cardiovascular 
 - Inhibits reuptake of norepinephrine which stimulates the sympathetic nervous system. 
 	- Transient increase in HR, BP, SVR
 	- Can lead to increased coronary blood flow and myocardial oxygen demand. 
+- Generally, ketamine is a hemodynamically stable induction agent. If a patient is sick and has little catecholamine reserves, hypotension can occur with administration
 
 ## Respiratory
 - Minimal impact on respiratory drive & minute ventilation 
-- airway reflexes preserved -> large doses can lead to impaired airway
+- airway reflexes preserved; however, large doses can lead to an impaired airway
 - Produces  bronchodilation 
-- Increased airway secretions
+- Increases airway secretions
 
 ## Central Nervous System
 - Increases cerebral metabolic rate and cerebral blood flow thereby increasing cerebral vasodilation 
-- Cataleptic state without amnesia can occur without amnesia can be quite distressing
-	- hallucinations, delirium, dissociative state can all occur
+- Cataleptic state **without amnesia** can occur 
+	- hallucinations, delirium, dissociative are all possible
 - Anticonvulsant properties  
 - Increased tone which can manifest as myoclonic contraction and vocalization 
 
 # Indications [^3]
 ## Anesthetic Indications
-- Induction of general anesthesia 
+- [[Induction of General Anesthesia]]
 - Short term sedation and analgesia during procedures or other clinical indications 
+- [[Pain Management]]
 
 ## Other Indications 
-- Pain management (generally infused)
-- Bronchodilatory properties for patients with bronchospasm
 - Treatment of refractory depression and suicidal ideation 
 - Widely used in the emergency department in short cases requiring short term anesthetic, such as fracture reductions 
 
 # Dosing [^2]
-- Induction doses are 0.5 - 2 mg/kg IV or 3-5 mg/kg IM 
-- Analgesia doses are 0.15 - 0.25 mg/kg IV
+- Induction doses are 1 - 2 mg/kg IV or 3-5 mg/kg IM 
+- Analgesia doses are 0.15 - 0.25 mg/kg IV as a push or 0.1-0.3 mg/kg/hour 
 - Half-life of redistribution = 11 - 16 minutes
 - Half-life of elimination = 2 - 4 hours 
 
@@ -57,7 +54,6 @@ authors: Simran, Justin
 - dysphoria at intermediate dosing can be profound
 	- analgesic doses generally tolerated well, high doses lead to complete sedation
 - Most commonly, patients can experience nausea, vomiting, drowsiness and confusion 
-- Allergic reaction or anaphylaxis
 - Increased muscular tone with myoclonic contractions resembling seizures 
 - Use with caution in cardiac disease due to stimulatory effects
 

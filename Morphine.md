@@ -18,7 +18,6 @@ tags:
 ## Mechanism of Action & Pharmacokinetics [^1][^2]
 - Primarily acts on mu-opioid receptors in the central nervous system (CNS) to produce analgesia.
 - Onset in 30-60 minutes (PO) and 15 minutes (IV), with a half-life of 2-3 hours. [^4]
-- Binds to opioid receptors leading to inhibition of ascending pain pathways, altering the perception of and response to pain.
 - Metabolized in the liver by glucuronidation, producing morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active), the latter of which has potent analgesic effects.
   - Morphine-6-glucuronide can accumulate in renal failure, potentially causing prolonged sedation and respiratory depression. [^1]
 - Excreted primarily through the kidneys.
@@ -33,8 +32,7 @@ tags:
 - Risk of respiratory depression increases with dose and concomitant use of other CNS depressants.
 
 ## Indications [^1]
-- Management of moderate to severe pain where the use of an opioid analgesic is appropriate.
-- Often used in postoperative pain management, cancer pain, and severe acute pain.
+- [[Pain Management]]: Management of moderate to severe pain where the use of an opioid analgesic is appropriate.
 - Also used for relief of dyspnea in palliative care and management of myocardial infarction-related pain.
 
 ## Dosage [^2]

@@ -10,19 +10,15 @@ tags:
   - card
 ---
 
-## What is Midazolam?
+# What is Midazolam?
 - A benzodiazepine often used as a co-induction agent to provide amnestic and anxiolytic properties.
-- Can also be used during maintenance for anxiolytic properties. 
-![midazolam | 160](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCR8Jri9tdxkf-s_8uH1MyvMUFY41OrtadB5DNvEUS1A&s)
 
-## Mechanism of Action & Pharmacokinetics [^1][^2]
+# Mechanism of Action & Pharmacokinetics [^1][^2]
 - Facilitates the inhibitory actions of the neurotransmitter GABA by increasing the frequency of chloride channel opening.
 - Acts on glycine receptors to produce a muscle-relaxing effect.
 - Has few systemic effects.
 
-![midazolam mechanism | 200](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20161221073529645-0126:9780511781933:89666fig29_1.gif?pub-status=live)
-
-## Pharmacodynamics [^1] [^2] 
+# Pharmacodynamics [^1] [^2] 
 #### Cardiovascular 
 - Minimally impacts blood pressure by reducing it through reduction of cardiac output and peripheral vascular resistance. 
 - Can have slight increase in heart rate. 
@@ -33,9 +29,9 @@ tags:
 - Decreases cerebral blood flow
 - Has anticonvulsant properties 
 
-## Indications [^1]
+# Indications [^1]
 #### Anesthetic Indications
-- Co-induction agent for general anesthesia 
+- May be used for [[Induction of General Anesthesia]]
 - Used for anxiolysis
 
 #### Other Indications 
@@ -44,19 +40,14 @@ tags:
 - Treat seizures secondary to local anesthetic toxicity
 
 ## Dosage [^1]
-- 0.01 - 0.1 mg/kg IV for sedation purposes
-- 0.02 - 0.04 mg/kg for co-indcution purpases 
+- 1-2 mg IV for sedation and co-induction
 - Onset of action within 1 - 2 minutes
 - Half-life of elimination = 1.5 - 2.5 hours 
-![midaz bottle | 100](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wutkhlNvR6Oq0CNU2AdVcTqPhJAybLCFb2LlLv7kzg&s)
-
 
 ## Complications [^1] [^2]
-- Can cause anterograde amnesia, drowsiness, ataxia, falls and confusion in elderly patients so should be used cautiously
-- Hypotension and tachycardia if administered rapidly 
-- QT prolongation, however this is a rare adverse effect
-- Midazolam infusion syndrome is a rate side effect that may require ventilator support
-- When administered in pregnant patients in their third trimester, it may cause neonatal withdrawal from benzodiazepines
+- Amnesia
+- Decreased level of consciousness
+- Delirium (especially in the elderly)
 
 ## References
 [^1]:Sullivan, P. (2012). *Ottawa Anesthesia Primer.* Echo Book Publishing

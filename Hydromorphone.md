@@ -24,7 +24,7 @@ tags:
 
 ## Pharmacodynamics [^1][^2]
 ### Cardiovascular
-- May cause mild to moderate hypotension due to peripheral vasodilation.
+- Can cause mild to moderate hypotension due to peripheral vasodilation.
 - Minimal effects on myocardial contractility, but may cause bradycardia in some patients.
 
 ### Respiratory
@@ -40,7 +40,7 @@ tags:
   - 2 to 4 mg every 4 to 6 hours as needed for pain.
 - **Intravenous (IV):**
   - 0.2 to 1 mg every 2 to 3 hours as needed for pain.
-  - 15 mcg/kg in pediatrics
+  - 5-15 mcg/kg in pediatrics
 - **Patient-Controlled Analgesia (PCA):**
   - Initial demand dose: 0.1 to 0.2 mg IV; lockout interval typically 6 to 10 minutes.
 - Dosage should be adjusted based on the patient's response, tolerance, and severity of pain.
@@ -48,7 +48,6 @@ tags:
 ## Contraindications [^1][^2]
 - Hypersensitivity to hydromorphone or any of its components.
 - Severe respiratory depression without resuscitative equipment or monitoring.
-- Acute or severe bronchial asthma in an unmonitored setting or without resuscitative equipment.
 
 ## Complications [^1][^2][^3]
 - Respiratory depression, which can be severe and life-threatening, especially in opioid-naive patients.

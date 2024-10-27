@@ -14,21 +14,17 @@ tags:
 - Volatile inhaled anesthetic agent used for induction and maintenance of general anesthesia. 
 - It is synthetic, colourless and non-flammable
 
-![sevoflurane | 200](https://upload.wikimedia.org/wikipedia/commons/2/25/Sevoflurane.svg)
-
 ## Mechanism of Action & Pharmacokinetics [^1] [^2]
 - There is no confirmed mechanism of action 
-- Theories include that it activates GABA receptors and inhibits calcium channels or glutamate channels. 
-- The volume expansion theory also details that the volatile anesthetic dissolves into the lipid cell membranes within the CNS and can distort sodium channels required for synaptic transmission. 
-
-![sevo mechanism|300](https://www.sciencerepository.org/resources/uploads/2020/anesthesia-the-gamechanger_2.jpg)
+- Theories include possible activity on GABA receptors, calcium channels, or glutamate
 
 ## Pharmacodynamics [^1] [^2]
 ### Cardiovascular
-- Dose-related reduction in blood pressure due to a decrease in SVR and no reduction in cardiac output.
+- Dose-related reduction in blood pressure due to a decrease in SVR
+
 ### Respiratory
 - Has bronchodilation properties so can be used to treat individuals with status asthmaticus. 
-- Less likely to elicit airway irritation symptoms such as coughing and laryngospasm compared to desflurane and isoflurane due to low pungency.
+- Less likely to elicit airway irritation symptoms such as coughing and laryngospasm compared to [[DrugLibrary/Desflurane|Desflurane]] and isoflurane due to low pungency.
 
 ### Central Nervous System
 - Dose-related vasodilatory effects of cerebral vasculature so it increases cerebral blood flow and ICP.

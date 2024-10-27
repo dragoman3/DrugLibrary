@@ -7,19 +7,19 @@ tags: Drug
 ---
 
 ## What is Dexamethasone?
-- Dexamethasone is a glucocorticoid used in the perioperative period for [[Post-operative Nausea and Vomiting]] and swelling
+- Dexamethasone is a glucocorticoid used in the perioperative period for [[Post-operative Nausea and Vomiting]] and airway swelling.
 
 ## Mechanism of Action [^1][^2]
 - Dexamethasone binds to intracellular glucocorticoid receptors inhibiting inflammatory mediators.
 - Inhibits prostaglandin synthesis and causes antiemetic effect. 
 
 ## Indications [^1][^2]
-- **Antiemetic:** Prevention and treatment of postoperative nausea and vomiting (PONV).
+- **Antiemetic:** Prevention and treatment of [[Post-operative Nausea and Vomiting]] (PONV).
 - **Anti-inflammatory:** Often used in ENT and airway surgery to reduce the risk of swelling.
 - **Cerebral Edema:** Reduction of intracranial pressure, generally reserved for brain tumors
 
 ## Dosage [^2]
-- **PONV:** 0.1 mg/kg IV up to 4 mg
+- **PONV:** 0.1 mg/kg IV up to 4-6 mg [^2]
 - **Inflammatory:** Dose depends on clinical scenario, but 0.1-0.2 mg/kg up to ~10mg is common.
 
 ## Pharmacokinetics [^1]
