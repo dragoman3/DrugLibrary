@@ -7,6 +7,7 @@ author: Jasleen, Dragoman
 tags:
   - pocketcard
   - Drug
+category: drug
 ---
 
 ## What is Remifentanil? [^1]

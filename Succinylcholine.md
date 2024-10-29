@@ -9,6 +9,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Succinylcholine? [^1]
 - A *depolarizing* neuromuscular blocking drug

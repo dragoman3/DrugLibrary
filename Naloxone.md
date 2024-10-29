@@ -9,6 +9,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Naloxone? [^1]
 - A pure opioid antagonist used to reverse the effects of opioid overdose, including respiratory depression, sedation, and hypotension.

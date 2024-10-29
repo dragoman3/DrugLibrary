@@ -9,6 +9,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Hydromorphone? [^1]
 - Semi-synthetic opioid analgesic derived from morphine.

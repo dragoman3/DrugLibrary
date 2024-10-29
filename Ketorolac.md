@@ -3,8 +3,11 @@ title: Ketorolac
 notetype: feed
 feed: show
 date: 18-06-2024
-tags: Drug, clerkship 
+tags:
+  - Drug
+  - clerkship
 author: Jasleen, Dragoman
+category: drug
 ---
 ## What is Ketorolac?
 - Nonsteroidal anti-inflammatory drug used primarily for short term, acute pain management.

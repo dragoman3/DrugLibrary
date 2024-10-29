@@ -10,6 +10,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Morphine? [^1]
 - Naturally occurring opioid analgesic derived from the opium poppy.

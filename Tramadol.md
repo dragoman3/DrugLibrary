@@ -9,6 +9,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Tramadol? [^1]
 - Synthetic opioid with analgesic properties indicated for treatment of moderate-severe pain.

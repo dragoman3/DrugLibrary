@@ -10,6 +10,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Desflurane?
 - Volatile inhaled anesthetic agent used for maintenance of general anesthesia. Not often used for induction of anesthesia due to airway irritant properties. 

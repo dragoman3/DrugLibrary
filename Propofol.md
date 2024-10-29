@@ -3,8 +3,13 @@ title: Propofol
 notetype: feed
 feed: show
 date: 18-05-2023
-tags: Drug, clerkship, pocket card 
+tags:
+  - Drug
+  - clerkship
+  - pocket
+  - card
 author: Simran
+category: drug
 ---
 
 ## What is Propofol? [^1][^2]

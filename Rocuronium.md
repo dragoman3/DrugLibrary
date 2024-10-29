@@ -9,6 +9,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Rocuronium? [^1]
 - An intermediate-acting non-depolarizing neuromuscular blocking drug (NDMR) used for rapid induction and intubation.

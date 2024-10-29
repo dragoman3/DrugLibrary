@@ -10,6 +10,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Fentanyl? [^1][^2]
 - Potent, synthetic opioid with rapid acting analgesic and sedative properties.

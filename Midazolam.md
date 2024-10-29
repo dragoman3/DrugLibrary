@@ -8,6 +8,7 @@ tags:
   - clerkship
   - pocket
   - card
+category: drug
 ---
 
 # What is Midazolam?

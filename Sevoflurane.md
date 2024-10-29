@@ -9,6 +9,7 @@ tags:
   - clerkship
   - card
   - pocket
+category: drug
 ---
 ## What is Sevoflurane?
 - Volatile inhaled anesthetic agent used for induction and maintenance of general anesthesia. 

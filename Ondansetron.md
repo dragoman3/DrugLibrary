@@ -3,7 +3,8 @@ title: Ondansetron
 category: drug
 feed: show
 date: 15-05-2023
-tags: Drug 
+tags:
+  - Drug
 author: Dragoman
 ---
 
