@@ -1,9 +1,12 @@
 ---
-title: Fasting Requirements
+title: Pre-operative Fasting
 feed: show
-notetype: feed
-date: 21-12-2023
 category: clerk
+date: 29-09-2024
+tags:
+  - clerkship
+version: 1
+mermaid: true
 ---
 
 # General Guidelines:
