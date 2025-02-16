@@ -8,7 +8,7 @@ tags: clerkship
 version: 1
 mermaid: true
 ---
-# Introduction
+# Introduction to Pain
 Pain management can be a complex topic in anesthesia. Patient factors, like age, comorbidities, and pre-existing chronic pain can help guide analgesia during the operative period. Surgical factors, like the expected intra-operative and post-operative pain can also help determine which agents to use and in what dosage.
 # Definitions
 1. Multimodal Analgesia - use of different classes of drugs to optimize analgesia while minimizing individual drug side-effects
