@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pain Management.md",
+                "file": "Ventilator Basics.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Pain Management"
+              "title": "Ventilator Basics"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,6 +171,11 @@
   },
   "active": "ba980e76f83cddfd",
   "lastOpenFiles": [
+    "Pre-operative Assessment.md",
+    "Phenylephrine.md",
+    "Ventilator Basics.md",
+    "Remifentanil.md",
+    "Pain Management.md",
     "Icon\r",
     "Desflurane.md"
   ]
