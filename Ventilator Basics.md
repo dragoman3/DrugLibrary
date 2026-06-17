@@ -10,7 +10,7 @@ mermaid: true
 ---
 
 # Ventilator Basics
-*There are a variety of methods to ventilate patients in the OR once an [[Airway Devices|Airway]] is placed. As the name suggests, controlled modes of ventilation allow the anesthesiologist to set ventilator parameters which will be delivered to the patient. These modes are best if the patient is not interacting with the ventilator (paralyzed, deep anesthetic, strong analgesia). Supportive modes can augment patient's ventilatory efforts which can be useful in unparalyzed patients or those weaning from the ventilator. Spontaneous modes of ventilation require the patient to provide all of the ventilatory work (with the exception of some CPAP).*
+*There are a variety of methods to ventilate patients in the OR once an airway is placed. As the name suggests, controlled modes of ventilation allow the anesthesiologist to set ventilator parameters which will be delivered to the patient. These modes are best if the patient is not interacting with the ventilator (paralyzed, deep anesthetic, strong analgesia). Supportive modes can augment patient's ventilatory efforts which can be useful in unparalyzed patients or those weaning from the ventilator. Spontaneous modes of ventilation require the patient to provide all of the ventilatory work (with the exception of some CPAP).*
 
 ## Terminology
 - **FiO2**
